@@ -26,6 +26,7 @@
 
 ## Articles 
 
+- [Monorepos are changing how teams build software](https://vercel.com/blog/monorepos-are-changing-how-teams-build-software)
 - [Why TurboRepo Will Be The First Big Trend of 2022](https://www.swyx.io/turborepo-why)
 
 ## Videos
