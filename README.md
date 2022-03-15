@@ -17,8 +17,23 @@
 
 - [Documentation](https://turborepo.org/)
 
+## Starters
+
+- [basic](https://github.com/vercel/turborepo/tree/main/examples/basic) - Official Turborepo starter.
+- [design-system](https://github.com/vercel/turborepo/tree/main/examples/design-system) - Official React design system starter.
+- [kitchen-sink](https://github.com/vercel/turborepo/tree/main/examples/kitchen-sink) - Official Yarn v1 starter with multiple meta-frameworks all working in harmony and sharing packages.
+- [with-pnpm](https://github.com/vercel/turborepo/tree/main/examples/with-pnpm) - Official Turborepo starter with PNPM.
+
+## Articles 
+
+- [Why TurboRepo Will Be The First Big Trend of 2022](https://www.swyx.io/turborepo-why)
+
+## Videos
+
+- [Turborepo Demo and Walkthrough (High-Performance Monorepos)](https://www.youtube.com/watch?v=YX5yoApjI3M)
+
 ## Remote Cache Servers
 
-- [https://github.com/fox1t/turborepo-remote-cache](https://github.com/fox1t/turborepo-remote-cache)
-- [https://github.com/Tapico/tapico-turborepo-remote-cache](https://github.com/Tapico/tapico-turborepo-remote-cache)
-- [https://github.com/acifani/turborepo-s3-remote-cache](https://github.com/acifani/turborepo-s3-remote-cache)
+- [turborepo-remote-cache](https://github.com/fox1t/turborepo-remote-cache) - AWS S3, Local filesystem.
+- [tapico-turborepo-remote-cache](https://github.com/Tapico/tapico-turborepo-remote-cache) - AWS S3, Google Cloud Storage, Local filesystem.
+- [turborepo-s3-remote-cache](https://github.com/acifani/turborepo-s3-remote-cache) - AWS S3.
