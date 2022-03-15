@@ -2,13 +2,20 @@
    <img width="340" alt="Turborepo logo" src="https://user-images.githubusercontent.com/4060187/106504110-82f58d00-6494-11eb-87b7-a16d4f68bc5a.png">
 </p>
 
-# Awesome TurboRepo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h2 align='center'>Awesome Turborepo</h2>
 
-Awesome things related to TurboRepo
+<p align='center'>
+   Awesome things related to Turborepo.
+   <br><br>
+   <a href='https://github.com/sindresorhus/awesome'>
+      <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
+   </a>
+</p>
+
 
 ## Resources
 
-- [Official Guide](https://turborepo.org/) - The user guide and documentation site.
+- [Documentation](https://turborepo.org/)
 
 ## Remote Cache Servers
 
