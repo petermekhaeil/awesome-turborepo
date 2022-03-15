@@ -13,7 +13,7 @@
 </p>
 
 
-## Resources
+## Official Resources
 
 - [Documentation](https://turborepo.org/)
 
