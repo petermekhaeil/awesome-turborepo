@@ -16,6 +16,7 @@
 ## Official Resources
 
 - [Documentation](https://turborepo.org/)
+- [Vercel documentation on Monorepo](https://vercel.com/docs/concepts/git/monorepos#turborepo)
 
 ## Starters
 
