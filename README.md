@@ -15,6 +15,7 @@
 
 ## Official Resources
 
+- [Discord](https://turborepo.org/discord)
 - [Documentation](https://turborepo.org/)
 - [Vercel documentation on Monorepo](https://vercel.com/docs/concepts/git/monorepos#turborepo)
 
