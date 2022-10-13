@@ -37,6 +37,7 @@
 
 ## Remote Cache Servers
 
+- [Turbo Racer](https://github.com/brunojppb/turbo-racer) - Support for AWS S3, Cloudflare R2, Backblaze and file system. Includes a Web UI for managing teams and tokens.
 - [tapico-turborepo-remote-cache](https://github.com/Tapico/tapico-turborepo-remote-cache) - AWS S3, Google Cloud Storage, Local filesystem.
 - [turborepo-gh-artifacts](https://github.com/felixmosh/turborepo-gh-artifacts) - GitHub artefacts.
 - [turborepo-remote-cache](https://github.com/fox1t/turborepo-remote-cache) - AWS S3, Local filesystem.
