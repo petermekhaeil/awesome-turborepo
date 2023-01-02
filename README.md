@@ -42,3 +42,7 @@
 - [turborepo-gh-artifacts](https://github.com/felixmosh/turborepo-gh-artifacts) - GitHub artefacts.
 - [turborepo-remote-cache](https://github.com/fox1t/turborepo-remote-cache) - AWS S3, Local filesystem.
 - [turborepo-s3-remote-cache](https://github.com/acifani/turborepo-s3-remote-cache) - AWS S3.
+
+## Tools
+
+- [Turbo Select](https://github.com/ragrag/turbo-select) - Run Turborepo on selected packages via a nice prompt
