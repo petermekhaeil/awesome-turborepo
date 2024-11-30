@@ -25,6 +25,7 @@
 - [design-system](https://github.com/vercel/turborepo/tree/main/examples/design-system) - Official React design system starter.
 - [kitchen-sink](https://github.com/vercel/turborepo/tree/main/examples/kitchen-sink) - Official Yarn v1 starter with multiple meta-frameworks all working in harmony and sharing packages.
 - [with-pnpm](https://github.com/vercel/turborepo/tree/main/examples/with-pnpm) - Official Turborepo starter with PNPM.
+- [with-aspnet](https://github.com/MatanelGordon/csharp-react-turborepo) - Bilingial monorepo starter with aspnet and node powered by Turborepo.
 
 ## Articles 
 
